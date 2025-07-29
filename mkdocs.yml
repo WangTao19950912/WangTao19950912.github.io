@@ -1,0 +1,48 @@
+site_name: MkLorum
+nav:
+  - Home: index.md
+  - About: about.md
+  - Markdown: 20_century_artists.md
+
+theme:
+  language: "zh"
+  name: material
+  custom_dir: docs/overrides/
+  font: false
+  logo: images/Favicon.png
+  #     text: Noto Serif SC
+  #   custom_dir: /docs/stylesheets/
+  features:
+    - content.tabs.link
+    - content.code.copy
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+    - search.share
+    # - navigation.sections
+    # - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    # - content.action.edit
+    # - content.action.view
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  icon:
+    annotation: material/arrow-right-circle
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
