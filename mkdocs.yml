@@ -1,8 +1,8 @@
-site_name: MkLorum
+site_name: TTP笔记本
 nav:
   - Home: index.md
   - About: about.md
-  - Markdown: 20_century_artists.md
+  - 关于网站: websitebulid.md
 
 theme:
   language: "zh"
