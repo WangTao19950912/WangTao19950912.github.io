@@ -29,9 +29,7 @@ git branch -M main
 git remote add origin https://github.com/WangTao19950912/WangTao19950912.github.io
 
 ```
-## 基本部署指令
-
-!!! abstract "本地文件部署到GitHub"
+>不是每次必须要建立连接
  ```shell
     git push -u origin main
  ```
@@ -39,3 +37,8 @@ git remote add origin https://github.com/WangTao19950912/WangTao19950912.github.
 ```text
 git push -u origin main --force
 ```
+## 将本地照片等资源上传到CDN
+>CDN (Content Delivery Network) ，此处使用jsDelivr
+
+!!! abstract "jsDelivr"
+ 
