@@ -33,7 +33,8 @@ git remote add origin https://github.com/WangTao19950912/WangTao19950912.github.
  ```shell
     git push -u origin main
  ```
-强制推送命令
+![](https://cdn.jsdelivr.net/gh/WangTao19950912/images_for_website-@latest/images/%E6%8D%95%E8%8E%B7.PNG)
+如果强制推送命令
 ```text
 git push -u origin main --force
 ```
