@@ -49,9 +49,9 @@ git push -u origin main --force
 ![](https://cdn.jsdelivr.net/gh/WangTao19950912/images_for_website-@latest/images/20250802122418037.png)
 
 ### 致谢和仓库
-1. 感谢deepseek在代码之路给予的帮助
-2. 感谢**笑笑的站**笔记参考[传送门](https://smilingwayne.github.io/me/Website/Step1/)
-3.[GitHub Pages](https://www.github-zh.com/getting-started/github-pages)
+1. 感谢deepseek在代码之路给予的帮助  
+2. 感谢**笑笑的站**笔记参考[传送门](https://smilingwayne.github.io/me/Website/Step1/)  
+
 
 
 

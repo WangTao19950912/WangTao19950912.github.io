@@ -1,8 +1,11 @@
 site_name: TTP笔记本
 nav:
   - Home: index.md
-  - About: about.md
-  - 关于网站: websitebulid.md
+  - 关于coding: about.md
+  - 关于网站:
+        - Website/index.md
+        - 网站部署: Website/websitebulid.md
+
 
 theme:
   language: "zh"
