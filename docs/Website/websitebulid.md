@@ -46,7 +46,10 @@ git push -u origin main --force
 是因为不了解Git的机制，本地文件夹不是直接上传至github，而是通过Git上传，需要先将本地文件git执行才可以上传  
 ![](https://cdn.jsdelivr.net/gh/WangTao19950912/images_for_website-@latest/images/20250802121313645.png)  
 2. PicGo不能上传图片，检查日志，询问deepseek解决
-![](https://cdn.jsdelivr.net/gh/WangTao19950912/images_for_website-@latest/images/20250802122418037.png)
+![](https://cdn.jsdelivr.net/gh/WangTao19950912/images_for_website-@latest/images/20250802122418037.png)  
+3. git config  
+4. 切换git登录方式为通过SSH密钥登录  
+
 
 ### 致谢和仓库
 1. 感谢deepseek在代码之路给予的帮助  

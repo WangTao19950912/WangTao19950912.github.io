@@ -1,7 +1,9 @@
 site_name: TTP笔记本
 nav:
   - Home: index.md
-  - 关于coding: about.md
+  - 智能家居相关:
+         -  HA/index.md
+         - HA学习: HA/HA-Learning.md
   - 关于网站:
         - Website/index.md
         - 网站部署: Website/websitebulid.md
